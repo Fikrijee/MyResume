@@ -67,6 +67,7 @@ body {
   .card {
     flex: 1;
     min-width: 280px;
+    box-sizing: border-box;
     background: #e0e5ec;
     border-radius: 15px;
     padding: 20px;
